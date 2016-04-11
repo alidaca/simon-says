@@ -1,5 +1,5 @@
-# Simon Says 
-Simon says game built using Jquery
+# Simon Says
+Simon says game built using Jquery. Play the game [here](http://alidaca.github.io/simon-says/)
 
 ## Functionality
 - User Story: I am presented with a random series of button presses.
